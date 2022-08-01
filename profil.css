@@ -1,0 +1,21 @@
+.one{
+	background: yellow;
+	font-style: italic;
+
+}
+body {
+	background-color: rgb(201, 231, 239);
+}
+p{
+	text-align: justify;
+}
+
+span{
+	font-style: italic;
+}
+tr{
+	font-family: Times New Roman;
+}
+caption{
+	font-size: 25px; color : blue;
+}
